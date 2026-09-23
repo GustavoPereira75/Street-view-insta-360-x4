@@ -72,7 +72,7 @@ Use este método quando for possível deslocar-se lentamente e com velocidade co
 Instale estes requisitos antes de iniciar o processamento:
 
 - [Python](https://www.python.org/downloads/);
-- [FFmpeg](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-8.1.1-essentials_build.zip?utm_source=chatgpt.com);
+- [FFmpeg](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-8.1.2-essentials_build.7z);
 - [ExifTool](https://sitsa.dl.sourceforge.net/project/exiftool/exiftool-13.58_64.zip?viasf=1&fid=ee431851bb782df9);
 - [Insta360 Studio](https://www.insta360.com/download/insta360-x4).
 
