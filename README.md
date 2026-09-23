@@ -17,7 +17,7 @@ Este guia padroniza a coleta, o processamento e a georreferenciação de imagens
 | Método | Quando usar | Vantagem | Atenção |
 | --- | --- | --- | --- |
 | **Vídeo 360°** | Levantamentos que exigem continuidade e maior confiabilidade. | Menor risco de falhas de posicionamento. | Exige exportação, extração de frames e correção de telemetria. |
-| **Disparo intervalado** | Percursos lentos, especialmente dentro de quartéis. | Processo mais simples: gera fotos individuais. | Mantenha a viatura entre **10 e 20 km/h** e fotografe a cada 3 s para evitar lacunas. |
+| **Disparo intervalado** | Percursos lentos, especialmente dentro de quartéis. | Processo mais simples: gera fotos individuais. | Mantenha a viatura entre **10 e 20 km/h**  fotografia a cada 3s deslocar devagar para evitar lacunas. |
 
 ## GPS e telemetria
 
