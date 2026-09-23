@@ -192,7 +192,7 @@ Se já houver imagens em `frames_processados/`, o script continua a numeração 
 
 ## Processamento do modo Disparo intervalado
 
-Este método gera fotos individuais, portanto é mais direto. O ponto crítico é a telemetria.
+Este método gera fotos individuais, portanto é mais direto. O ponto crítico é o tempo minimo de 3s por foto.
 
 ### Quando usar GPS do controle remoto
 
@@ -207,7 +207,7 @@ As fotos já saem da câmera com coordenadas. O fluxo é:
 python pipeline2fotodireto.py
 ```
 
-O script lê as coordenadas existentes, adapta a estrutura dos metadados ao padrão aceito pelo plugin do mapa e gera o resultado pronto para envio. Nesta situação, não é necessário um arquivo GPX externo.
+O script adapta a estrutura dos metadados ao padrão aceito pelo plugin do mapa e gera o resultado pronto para envio. Nesta situação, não é necessário um arquivo GPX externo.
 
 ![Processamento de imagens por disparo intervalado](images/pagina-16-imagem-01.png)
 
